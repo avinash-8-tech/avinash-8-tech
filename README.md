@@ -7,7 +7,7 @@
 
 ## 💻 Skills:
 - **Web Development:** Proficient in HTML, CSS, and JavaScript, with hands-on experience in frameworks such as Bootstrap and Tailwind CSS.
-- **Animation and Graphics:** Skilled in using Three.js and GSAP for creating dynamic and interactive web experiences.
+- **Animation and Graphics:** Skilled in using Three.js, GSAP, and other JavaScript libraries for creating dynamic and interactive web experiences.
 - **Programming Languages:** Strong foundation in C, C++, and Python, with practical experience in developing applications using the Django framework.
 
 ## 💞️ I’m looking to collaborate on:

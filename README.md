@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [@avinash-8-tech](https://github.com/avinash-8-tech)
+# 👋 Hi, I’m [@Avinash](https://github.com/avinash-8-tech)
 
 ## 👀 I’m interested in:
 - **Web Development:** Crafting responsive and user-friendly websites using modern technologies.

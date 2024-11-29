@@ -16,7 +16,7 @@
 - Open-source initiatives
 
 ## 📫 How to reach me:
-- Email: abhaybehra814@gmail.com
+- Email: abhaybehra8@gmail.com
 
 ## 😄 Pronouns:
 - He/Him

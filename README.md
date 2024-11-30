@@ -15,9 +15,6 @@
 - Animation effects using GSAP and Three.js
 - Open-source initiatives
 
-## 📫 How to reach me:
-- Email: abhaybehra8@gmail.com
-
 ## 😄 Pronouns:
 - He/Him
 

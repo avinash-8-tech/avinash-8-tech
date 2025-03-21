@@ -3,7 +3,7 @@
 ## 👀 I’m interested in:
 - **Web Development:** Crafting responsive and user-friendly websites using modern technologies.
 - **Animation and Interactive Design:** Utilizing tools like GSAP and Three.js to create engaging, dynamic experiences.
-- **Programming Languages:** Proficient in C, C++, Python, and JavaScript, with a strong understanding of Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOP). I’m passionate about exploring new technologies and frameworks that enhance my development skills.
+- **Programming Languages:** Proficient in C, C++, Python, and JavaScript
 
 ## 💻 Skills:
 - **Web Development:** Proficient in HTML, CSS, and JavaScript, with hands-on experience in frameworks such as Bootstrap and Tailwind CSS.

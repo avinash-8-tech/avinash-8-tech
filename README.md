@@ -61,11 +61,7 @@ const avinash = {
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/avinash-8-tech">
-    <img src="https://img.shields.io/badge/GitHub-avinash--8--tech-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="/in/avinash-behra/">
+  <a href="www.linkedin.com/in/avinash-behra/">
     <img src="https://img.shields.io/badge/LinkedIn-Avinash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;

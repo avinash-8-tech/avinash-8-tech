@@ -38,16 +38,6 @@ const avinash = {
   <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-8-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
----
-
 ## 🤝 Looking to Collaborate On
 
 - 🌐 Full Stack Web Apps
